@@ -1,5 +1,4 @@
-[Uploading localocr_v6_0_github_readme.md…]()
-<div align="center">
+
 
 # LocalOCR v6.0
 
